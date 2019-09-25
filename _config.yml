@@ -6,13 +6,13 @@ description: > # your text below (remove <br> elements if you don't need line br
   In my time at the data analytics boot camp, we covered various topics within the world of data science, including machine learning, 
   big data analytics, data visualizations, web scrapping, social media mining, front-end visualizations, databases (SQL and NoSQL), 
   full-stack development and business intelligence software (Tableau).  In addition, we covered the programming languages of Python, R and JavaScript.
-  <br>
+  <br><br>
   Currently, I work full-time as a design verification engineer in a chip design team at Broadcom but I am looking to transition into the data science 
   realm as this is where I see the future going, love the subject and enjoy the infinite opportunities that data science provides.  I currently also 
   freelance as a data scientist for Mixcord.  During my transition period and post-graduation from my boot camp, I have continued to grow myself as a 
   data scientist by taking various courses in Udemy, SAS, DataCamp and AWS training.  I believe that with my unique background and passion for data 
   that I can contribute immediately to any company and would love an opportunity to be a data scientist going forward.
-  <br>
+  <br><br>
   <a href="https://www.linkedin.com/in/charleslee08/">View My LinkedIn Profile</a> 
 #show_excerpts: false # set to true to show excerpts on the homepage 
 
