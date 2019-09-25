@@ -1,5 +1,6 @@
 title: Charles Lee # your name (or website title) here
 logo: "/images/prof_pic.jpg?raw=true" # your photo (or logo) here
+email: charlesleeis@gmail.com
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I am a recent graduate from a data analytics boot camp from the continuing education division of the University of California, Irvine.  
   In my time at the data analytics boot camp, we covered various topics within the world of data science, including machine learning, 
@@ -13,6 +14,13 @@ description: > # your text below (remove <br> elements if you don't need line br
   that I can contribute immediately to any company and would love an opportunity to be a data scientist going forward.
   <br>
   <a href="https://www.linkedin.com/in/charleslee08/">View My LinkedIn Profile</a> 
-  
-theme: jekyll-theme-minimal
+show_excerpts: false # set to true to show excerpts on the homepage 
+
+#theme: jekyll-theme-minimal
+# Build settings
+theme: minima
 google_analytics:
+  
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
