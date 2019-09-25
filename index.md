@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[NBA Predictor](/nba_project)
 <img src="images/nba_pred1.jpg?raw=true"/>
 
 ---
