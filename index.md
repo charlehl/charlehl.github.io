@@ -2,34 +2,27 @@
 
 ---
 
-### Bootcamp Projects
+### Data Analytics Bootcamp Major Projects
 
 [NBA Predictor](/nba_project)
 <img src="images/nba_pred_1.jpg?raw=true"/>
 
 ---
-<!--- [Project 2 Title](/pdf/sample_presentation.pdf) 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[City Bike](/city_bike) 
+<img src="images/city_bike_1.jpg?raw=true"/>
 
+<!---
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 --->
 ---
 
-### Category Name 2
+### Data Science Mini Projects
 
 - [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
+### Still Under Construction
 
-
-
----
-<p style="font-size:11px"></p>
-<!-- Remove above link if you don't want to attibute -->
