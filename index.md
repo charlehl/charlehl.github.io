@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Bootcamp Projects
 
 [NBA Predictor](/nba_project)
 <img src="images/nba_pred_1.jpg?raw=true"/>
