@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [NBA Predictor](/nba_project)
-<img src="images/nba_pred1.jpg?raw=true"/>
+<img src="images/nba_pred_1.jpg?raw=true"/>
 
 ---
 <!--- [Project 2 Title](/pdf/sample_presentation.pdf) 
