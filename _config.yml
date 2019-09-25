@@ -14,8 +14,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   that I can contribute immediately to any company and would love an opportunity to be a data scientist going forward.
   <br>
   <a href="https://www.linkedin.com/in/charleslee08/">View My LinkedIn Profile</a> 
-show_excerpts: false # set to true to show excerpts on the homepage 
+#show_excerpts: false # set to true to show excerpts on the homepage 
 
-theme: jekyll-theme-modernist
+theme: jekyll-theme-tactile
 google_analytics:
 
