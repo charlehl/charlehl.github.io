@@ -20,9 +20,7 @@
 
 ### Data Science Mini Projects
 
-- [Project 1 Title](http://example.com/)
+- [Twitter Bot](/twitter_bot)
+- [Dashboard](/bellybutton_dashboard)
 
 ---
-
-### Still Under Construction
-

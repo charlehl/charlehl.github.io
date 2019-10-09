@@ -1,4 +1,9 @@
-[City Bike](https://bike-test.herokuapp.com/)
+[City Bike (Hosted on Heroku)](https://bike-test.herokuapp.com/)
+
+[Git Hub Repository](https://github.com/charlehl/project-two-bikeshare)
+
+# Summary:
+Group project for data analytics bootcamp.  Took data from LA bikeshare website developing a dashboard, data analysis and bike station routing application.
 
 # Implementation Notes for Project
 

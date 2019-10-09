@@ -1,4 +1,9 @@
-[NBA Predictor](https://nba-predictor-win-loss.herokuapp.com/)
+[NBA Predictor (Hosted on Heroku)](https://nba-predictor-win-loss.herokuapp.com/)
+
+[Github Repository for Project](https://github.com/charlehl/project-three-nba-predict)
+
+# Summary:
+Personal final project for data analytics bootcamp.  Scraped data from NBA.com to predict win-loss record and head-to-head match up outcome of win or loss.  Post final project, added additional ability to predict score using several different regression models.  Also added Vegas betting odds to measure accuracy of models.
 
 # Implementation Notes for Project
 ## FourFactor Machine Model
