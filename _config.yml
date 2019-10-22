@@ -10,10 +10,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   Currently, I work full-time as a design verification engineer in a chip design team at Broadcom but I am looking to transition into the data analytics realm as this is 
   where I see the future going, love the subject and enjoy the infinite opportunities that data analytics provides.  In addition, I freelance part-time as a data scientist 
   for Mixcord in order to further build and reinforce my experience in data analytics.  During my transition period and post-graduation from my boot camp, I have continued 
-  to grow myself by taking various courses at Business Science University, DataCamp, and Udemy.  I am currently enrolled in an intermediate R courses to further build upon my 
-  foundation learning more about the “Tidyverse” and “Shinyverse”.  I have learned how to build dashboards in the “flexdashboard” environment using Shiny for web app interactivity.  
-  I am also currently exploring the usage of the Google Cloud Platform, learning how to create data buckets and query data using BigQuery in addition to creating Dataproc clusters.  
-  Overall I love data analytics and hope to pursue a career in this area.
+  to grow myself by taking various courses at Business Science University, DataCamp, and Udemy.  I am currently enrolled in intermediate R courses to further build upon my 
+  foundation learning more about the “Tidyverse” and “Shinyverse”.  I am also currently exploring the usage of the Google Cloud Platform, learning how to create data buckets 
+  and query data using BigQuery.  Overall I love data analytics and hope to pursue a career in this area.
   <br><br>
   <a href="https://www.linkedin.com/in/charleslee08/">View My LinkedIn Profile</a> 
 #show_excerpts: false # set to true to show excerpts on the homepage 
