@@ -6,6 +6,7 @@
 
 [NBA Predictor](/nba_project)
 <img src="images/nba_pred_1.jpg?raw=true"/>
+<img src="images/nba_pred_2.jpg?raw=true"/>
 
 ---
 [City Bike](/city_bike) 
@@ -14,6 +15,7 @@
 ---
 [R Shiny App](/r_shiny_web_app)
 <img src="images/r_shiny_flex_dashboard.jpg?raw=true"/>
+
 <img src="images/r_shiny_predict_app.jpg?raw=true"/>
 ---
 
