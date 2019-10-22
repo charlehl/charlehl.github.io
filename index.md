@@ -12,9 +12,9 @@
 <img src="images/city_bike_1.jpg?raw=true"/>
 
 ---
-[R Shiny Flexdashboard](/r_shiny_web_app)
+[R Shiny App](/r_shiny_web_app)
 <img src="images/r_shiny_flex_dashboard.jpg?raw=true"/>
-
+<img src="images/r_shiny_predict_app.jpg?raw=true"/>
 ---
 
 ### Data Science Mini Projects
