@@ -8,6 +8,7 @@
 <img src="images/nba_pred_1.jpg?raw=true"/>
 <img src="images/nba_pred_2.jpg?raw=true"/>
 <img src="images/nba_pred_3.jpg?raw=true"/>
+<img src="images/nba_pred_4.jpg?raw=true"/>
 
 ---
 [City Bike](/city_bike) 
