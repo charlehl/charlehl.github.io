@@ -1,6 +1,8 @@
 # Deployed Shiny App
 [Sales Dashboard App](https://charlehl.shinyapps.io/sales_dashboard_forecast_app/)
 
+[Price Prediction App](https://charlehl.shinyapps.io/price_prediction_app/)
+
 # Summary:
 Learning Shiny Web App development from Business Science University Course
 
@@ -20,4 +22,4 @@ be a dashboard looking at the educational expenditures by state in the US and lo
 
 # Implementation Notes for Project
 
-### App was deployed using shinyapps.io
+App was deployed using shinyapps.io
