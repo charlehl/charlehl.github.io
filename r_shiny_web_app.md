@@ -1,7 +1,12 @@
 # Deployed Shiny App
+[Border Entry Dashboard App](https://charlehl.shinyapps.io/border_entry_dashboard_forecast/)
+Challenge for course was to create our own application.  This is my app dashboard for border entry into the United States.  I have a summary table for the border entry from 1996 to March of 2019.  This dataset was taken from [Kaggle](https://www.kaggle.com/akhilv11/border-crossing-entry-data) .  Dataset originally sourced from Bureau of Transportation Statistics (BTS).  Forecast mode has yet to be completed for application but is currently in progress.
+
 [Sales Dashboard App](https://charlehl.shinyapps.io/sales_dashboard_forecast_app/)
+Sales dashboard created during the course.  Created a reactive dashboard with ability to forecast sales based upon time unit chosen.  Prediction is provided via an xgboost and linear model based upon the time unit chosen for prediction.
 
 [Price Prediction App](https://charlehl.shinyapps.io/price_prediction_app/)
+Secondary application created during the Business Science University course.  Created a price prediction app that could help to price bike models based upon frame and bike category.  Additionally, based upon model keywords as well.  Prediction uses a trained xgboost model.
 
 # Summary:
 Learning Shiny Web App development from Business Science University Course
@@ -23,3 +28,10 @@ be a dashboard looking at the educational expenditures by state in the US and lo
 # Implementation Notes for Project
 
 App was deployed using shinyapps.io
+
+# Certificate of Completition
+<object data="images/ds4b-102_cert.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="images/ds4b-102_cert.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="images/ds4b-102_cert.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
