@@ -1,6 +1,6 @@
 # Deployed Shiny App
 [Border Entry Dashboard App](https://charlehl.shinyapps.io/border_entry_dashboard_forecast/)
-Challenge for course was to create our own application.  This is my app dashboard for border entry into the United States.  I have a summary table for the border entry from 1996 to March of 2019.  This dataset was taken from [Kaggle](https://www.kaggle.com/akhilv11/border-crossing-entry-data) .  Dataset originally sourced from Bureau of Transportation Statistics (BTS).  Forecast mode has yet to be completed for application but is currently in progress.
+Challenge for course was to create our own application.  This is my app dashboard for border entry into the United States.  I have a summary table for the border entry from January of 1996 to March of 2019.  This dataset was taken from [Kaggle](https://www.kaggle.com/akhilv11/border-crossing-entry-data) .  Dataset originally sourced from Bureau of Transportation Statistics (BTS).  Forecast mode has yet to be completed for application but is currently in progress.
 
 [Sales Dashboard App](https://charlehl.shinyapps.io/sales_dashboard_forecast_app/)
 Sales dashboard created during the course.  Created a reactive dashboard with ability to forecast sales based upon time unit chosen.  Prediction is provided via an xgboost and linear model based upon the time unit chosen for prediction.
