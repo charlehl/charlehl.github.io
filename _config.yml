@@ -14,6 +14,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/charleslee08/">View My LinkedIn Profile</a> 
 #show_excerpts: false # set to true to show excerpts on the homepage 
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-architect
 google_analytics:
 
