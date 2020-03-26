@@ -2,15 +2,14 @@ title: Charles Lee # your name (or website title) here
 logo: "/images/prof_pic.jpg?raw=true" # your photo (or logo) here
 email: charlesleeis@gmail.com
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  I am a recent graduate from a data analytics boot camp from the continuing education division of the University of California, Irvine.  
-  In my time at the data analytics boot camp, we covered various topics within the world of data science, including machine learning, 
+  I am a graduate from a data analytics boot camp from the continuing education division of the University of California, Irvine.  
+  In my time at the data analytics boot camp, we covered various topics within the world of data analytics, including machine learning, 
   big data analytics, data visualizations, web scrapping, social media mining, front-end visualizations, databases (SQL and NoSQL), 
-  full-stack development and business intelligence software (Tableau).  In addition, we covered the programming languages of Python, R(Tidyverse, Shinyverse) and JavaScript.
+  full-stack development and business intelligence software (Tableau).  In addition, we covered the programming languages of Python, R and JavaScript.
   <br><br>
-  Currently, I work full-time as a design verification engineer in a chip design team at Broadcom but I am looking to transition into the data analytics realm.  Additionally, 
+  Currently, I work full-time as a design verification engineer in a chip design team at Broadcom but I am transitioning into the data analytics realm.  Additionally, 
   I freelance part-time as a data scientist for Mixcord.  During my transition period, I have continued to grow myself by taking various courses at Business Science University, 
-  DataCamp, and Udemy.  I am currently enrolled in intermediate R courses to further my learning about the “Tidyverse” and “Shinyverse”.  I am also currently exploring the usage 
-  of the Google Cloud Platform, learning how to create data buckets and query data using BigQuery.  Overall I love data analytics and hope to pursue a career in this area.
+  DataCamp, and Udemy.  I am currently enrolled in Udacity's data engineering nanodegree program.  Overall I love data analytics and hope to continue to grow in this area.
   <br><br>
   <a href="https://www.linkedin.com/in/charleslee08/">View My LinkedIn Profile</a> 
 #show_excerpts: false # set to true to show excerpts on the homepage 
